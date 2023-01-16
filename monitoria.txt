@@ -1,0 +1,23 @@
+tipos primitivos: 
+numericos(inteiros, flutuante), char boolean
+inteiros: byte, short, int, long
+flutuante: float, double
+
+
+
+
+vetor [] //Definição.
+
+(var) o java consegue identificar o tipo de variavel com o var
+
+
+
+
+
+
+para imprimir o vetor
+
+usamoso o laço FOR
+
+for(int i = 0; i < 10)i++) 
+
